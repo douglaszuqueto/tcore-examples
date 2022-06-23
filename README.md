@@ -1,2 +1,3 @@
-# tcore-examples
-Exemplos de Decoders e Analisys utilizando a pltaforma TagoCore
+# TagoCore Examples
+
+Exemplos de Decoders e Analisys para serem utilizados na plataforma TagoCore
